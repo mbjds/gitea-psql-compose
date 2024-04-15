@@ -71,4 +71,3 @@ The `docker-compose.yml` file in this repository defines the configuration for t
 This Docker Compose configuration is licensed under the [MIT License](LICENSE).
 ```
 
-Ten plik README.md zawiera instrukcje dotyczące uruchomienia projektu, opis konfiguracji Docker Compose oraz informacje o licencji. Możesz dostosować go według potrzeb i dodać więcej szczegółów, jeśli zajdzie taka potrzeba.
